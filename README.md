@@ -1,5 +1,6 @@
-### hey there
+### Hi, there
 
+<div>
 <a href="">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -12,6 +13,7 @@
 <a href="">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+</div>
 
 <br />
 
@@ -24,7 +26,7 @@ Hi, i'm [Code Joker](https://galileo0106.me/), a passionate self-taught full sta
 - 💼 Any freelance work? do reach, [email](mailto:galileo0106@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
 
-**languages and tools:**
+**Languages and tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -36,6 +38,13 @@ Hi, i'm [Code Joker](https://galileo0106.me/), a passionate self-taught full sta
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+**Achievements:**
+
+🏆 7,995 Karma Points
+🌸 Completed 16 tasks
+✅ Completed 673 tasks so far
+⏳ Longest streak is 10 days
 
 My strengh points...
 
@@ -59,8 +68,4 @@ HTML            ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓�
 
 CSS/SCSS        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░   9 %
 
-🏆 7,995 Karma Points
-🌸 Completed 16 tasks
-✅ Completed 673 tasks so far
-⏳ Longest streak is 10 days
 ```
