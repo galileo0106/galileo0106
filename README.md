@@ -14,12 +14,14 @@
 </a>
 
 <br />
+<br />
+<br />
 
-hi, i'm [Code Joker](https://galileo0106.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm [Code Joker](https://galileo0106.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 As a passionate self-taught full stack web developer and a freelance software engineer. My passion for software lies with dreaming up ideas and making them come.
 
-  <img align="right" alt="GIF" src="https://github.com/galileo0106/galileo0106/blob/main/code.gif?raw=true" width="500" height="320" />
+  <img alt="GIF" src="https://github.com/galileo0106/galileo0106/blob/main/code.gif?raw=true" width="100%" height="320" />
   
 - 💼 Any freelance work? do reach, [email](mailto:galileo0106@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
