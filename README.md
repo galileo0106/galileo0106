@@ -16,6 +16,11 @@
 </div>
 
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 
 Hi, I'm [Code Joker](https://galileo0106.me/), a passionate self-taught full stack web developer and a freelance software engineer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
@@ -46,7 +51,7 @@ As a passionate self-taught full stack web developer and a freelance software en
 - ✅ Completed 673 tasks so far
 - ⏳ Longest streak is 10 days
 
-My strengh points...
+My strength points are ...
 
 <img align="right" alt="GIF" src="https://github.com/galileo0106/galileo0106/blob/main/code.gif?raw=true" width="500" height="324" />
 
