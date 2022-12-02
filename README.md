@@ -19,7 +19,7 @@ hi, i'm [Code Joker](https://galileo0106.me/), a passionate self-taught full sta
 
 As a passionate self-taught full stack web developer and a freelance software engineer. My passion for software lies with dreaming up ideas and making them come.
 
-  <img align="right" alt="GIF" src="https://github.com/galileo0106/galileo0106/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/galileo0106/galileo0106/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Any freelance work? do reach, [email](mailto:galileo0106@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
