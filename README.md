@@ -1,6 +1,6 @@
 ### Hi, there
 
-<div style="padding-bottom: 20px">
+<div style="padding-bottom: 20px;">
 <a href="">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
