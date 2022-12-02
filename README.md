@@ -1,6 +1,6 @@
 ### Hi, there
 
-<div style="padding-bottom: 20px;">
+<div style="padding-bottom: 40px;">
 <a href="">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -18,7 +18,7 @@
 <br />
 
 <p>
-Hi, i'm [Code Joker](https://galileo0106.me/), a passionate self-taught full stack web developer and a freelance software engineer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Code Joker](https://galileo0106.me/), a passionate self-taught full stack web developer and a freelance software engineer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 </p>
 
 <p>As a passionate self-taught full stack web developer and a freelance software engineer. My passion for software lies with dreaming up ideas and making them come.</p>
