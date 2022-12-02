@@ -14,14 +14,12 @@
 </a>
 
 <br />
-<br />
-<br />
+
 
 Hi, i'm [Code Joker](https://galileo0106.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 As a passionate self-taught full stack web developer and a freelance software engineer. My passion for software lies with dreaming up ideas and making them come.
 
-  <img alt="GIF" src="https://github.com/galileo0106/galileo0106/blob/main/code.gif?raw=true" width="100%" height="320" />
   
 - 💼 Any freelance work? do reach, [email](mailto:galileo0106@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
@@ -38,6 +36,8 @@ As a passionate self-taught full stack web developer and a freelance software en
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<img align="right" alt="GIF" src="https://github.com/galileo0106/galileo0106/blob/main/code.gif?raw=true" width="500" height="320" />
 
 My strengh points...
 
