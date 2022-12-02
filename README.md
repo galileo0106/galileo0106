@@ -19,7 +19,7 @@ hi, i'm [Code Joker](https://galileo0106.me/), a passionate self-taught full sta
 
 As a passionate self-taught full stack web developer and a freelance software engineer. My passion for software lies with dreaming up ideas and making them come.
 
-  <img align="right" alt="GIF" src="https://github.com/galileo0106/galileo0106/blob/main/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/galileo0106/galileo0106/blob/main/code.gif" width="500" height="320" />
   
 - 💼 Any freelance work? do reach, [email](mailto:galileo0106@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
@@ -37,16 +37,27 @@ As a passionate self-taught full stack web developer and a freelance software en
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-My strengh points
+My strengh points...
 
 ```text
-TypeScript   7 hrs 12 mins   █████████████████░░░░░░░░   68.25 %
-JSON         1 hr 35 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
-JavaScript   1 hr 14 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
-Bash         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-HTML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-GraphQL      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-```
+
+TypeScript      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░   91 %
+
+JavaScript      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░   85 %
+
+React           ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░   84 %
+
+React Native    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░   71 %
+
+Angular         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░   79 %
+  
+Vue             ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░   57 %
+  
+HTML            ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░   90 %
+
+CSS/SCSS        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░   9 %
+
+
 
 
 🏆 7,995 Karma Points  
