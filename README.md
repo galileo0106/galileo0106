@@ -1,53 +1,45 @@
-### Hi, there
+🌐 About Me
 
-Hi, I'm [Code Joker](https://galileo0106.me/), a passionate self-taught full stack web developer and a freelance software engineer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+I'm a Blockchain and Fullstack Developer with 8 years of experience in designing, developing, and deploying scalable blockchain-based and web applications. My expertise lies in building innovative solutions using smart contracts, decentralized applications (dApps), and modern web technologies.
+
+🔧 Tech Stack
+
+Blockchain Development
+
+Smart Contracts: Solidity, Rust
+
+Blockchains: Ethereum, Binance Smart Chain, Polygon
+
+Tools: Hardhat, Truffle, Web3.js, Ethers.js
+
+DeFi Protocols and Tokenomics
+
+Fullstack Development
+
+Frontend: React.js, Next.js, HTML5, CSS3, TailwindCSS
+
+Backend: Node.js, Express.js, Django
+
+Databases: MongoDB, PostgreSQL, Redis
+
+Other Tools: Docker, Kubernetes, AWS, CI/CD Pipelines
+
+🚀 What I Do
+
+Build secure and efficient smart contracts for blockchain applications.
+
+Design decentralized applications (dApps) with seamless user experiences.
+
+Create scalable fullstack solutions with a focus on performance and maintainability.
+
+Mentor junior developers and contribute to open-source projects.
+
+📈 GitHub Stats
 
 
-As a passionate self-taught full stack web developer and a freelance software engineer. My passion for software lies with dreaming up ideas and making them come.
 
-- 💼 Any freelance work? do reach, [email](mailto:galileo0106@gmail.com) :)
-- 💬 Ask me about anything, I am happy to help;
+📫 Let's Connect
 
-**Languages and tools:**
+Email: galileo0106@gmail.com
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-**Achievements:**
-
-- 🏆 7,995 Karma Points
-- 🌸 Completed 16 tasks
-- ✅ Completed 673 tasks so far
-- ⏳ Longest streak is 10 days
-
-My strength points are ...
-
-<img align="right" alt="GIF" src="https://github.com/galileo0106/galileo0106/blob/main/code.gif?raw=true" width="500" height="324" />
-
-```text
-
-TypeScript      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░   91 %
-
-JavaScript      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░   85 %
-
-React           ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░   84 %
-
-React Native    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░   71 %
-
-Angular         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░   79 %
-
-Vue             ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░   57 %
-
-HTML            ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░   90 %
-
-CSS/SCSS        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░   9 %
-
-```
+Feel free to check out my repositories and projects! Let's collaborate to build something amazing. 🚀
