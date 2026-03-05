@@ -1,45 +1,94 @@
-🌐 About Me
+# 👋 Hi, I'm Martin
 
-I'm a Blockchain and Fullstack Developer with 8 years of experience in designing, developing, and deploying scalable blockchain-based and web applications. My expertise lies in building innovative solutions using smart contracts, decentralized applications (dApps), and modern web technologies.
+### AI & Blockchain Engineer | Fullstack Developer | Web3 Builder
 
-🔧 Tech Stack
+I'm a software engineer with **8+ years of experience** designing and building scalable systems across **blockchain, AI, and fullstack development**. I specialize in creating decentralized applications, AI-powered systems, and high-performance backend infrastructures.
 
-Blockchain Development
+My goal is to combine **Artificial Intelligence and Blockchain technologies** to build secure, scalable, and innovative digital platforms.
 
-Smart Contracts: Solidity, Rust
+---
 
-Blockchains: Ethereum, Binance Smart Chain, Polygon
+# 🚀 Expertise
 
-Tools: Hardhat, Truffle, Web3.js, Ethers.js
+### 🤖 AI & Machine Learning
+- AI-powered automation systems
+- LLM integration and fine-tuning
+- AI agents and intelligent workflows
+- Computer Vision and real-time detection pipelines
+- 
+### 🔗 Blockchain Engineering
+- Smart Contract Development (Solidity, Rust)
+- DeFi Protocol Architecture
+- Tokenomics Design
+- Cross-chain Integration
+- Web3 Infrastructure
 
-DeFi Protocols and Tokenomics
+### 💻 Fullstack Development
+- Scalable backend architecture
+- High-performance APIs
+- Distributed systems
+- Modern responsive frontend applications
 
-Fullstack Development
+---
 
-Frontend: React.js, Next.js, HTML5, CSS3, TailwindCSS
+# 🛠 Tech Stack
 
-Backend: Node.js, Express.js, Django
+### Blockchain
+`Solidity` `Rust` `Ethereum` `Binance Smart Chain` `Polygon`  
+`Hardhat` `Truffle` `Web3.js` `Ethers.js`
 
-Databases: MongoDB, PostgreSQL, Redis
+### AI / Machine Learning
+`Python` `PyTorch` `TensorFlow` `LLMs` `Computer Vision` `AI Agents`
 
-Other Tools: Docker, Kubernetes, AWS, CI/CD Pipelines
+### Backend
+`Node.js` `Express.js` `Django` `FastAPI` `REST APIs`
 
-🚀 What I Do
+### Frontend
+`React.js` `Next.js` `TypeScript` `HTML5` `CSS3` `TailwindCSS`
 
-Build secure and efficient smart contracts for blockchain applications.
+### Databases
+`MongoDB` `PostgreSQL` `Redis`
 
-Design decentralized applications (dApps) with seamless user experiences.
+### DevOps & Infrastructure
+`Docker` `Kubernetes` `AWS` `CI/CD` `Linux`
 
-Create scalable fullstack solutions with a focus on performance and maintainability.
+---
 
-Mentor junior developers and contribute to open-source projects.
+# 🔥 What I Build
 
-📈 GitHub Stats
+- Secure **Smart Contracts and DeFi protocols**
+- **Decentralized Applications (dApps)**
+- **AI-powered automation systems**
+- **Blockchain analytics tools**
+- **Scalable backend infrastructures**
+- **Real-time AI detection systems**
 
+---
 
+# 📊 GitHub Stats
 
-📫 Let's Connect
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
 
-Email: galileo0106@gmail.com
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
-Feel free to check out my repositories and projects! Let's collaborate to build something amazing. 🚀
+---
+
+# 🤝 Collaboration
+
+I'm always interested in collaborating on:
+
+- AI + Blockchain projects  
+- Web3 infrastructure  
+- DeFi platforms  
+- Autonomous AI agents  
+- Scalable backend systems  
+
+---
+
+# 📫 Contact
+
+📧 **Email:** galileo0106@gmail.com  
+
+If you're building something interesting in **AI, Blockchain, or Web3**, feel free to reach out.
+
+Let's build something amazing 🚀
