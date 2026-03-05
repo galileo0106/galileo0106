@@ -1,6 +1,5 @@
 # AI & Blockchain Engineer | Fullstack Developer | Web3 Builder
 
-
 I'm a software engineer with **8+ years of experience** designing and building scalable systems across **blockchain, AI, and fullstack development**. I specialize in creating decentralized applications, AI-powered systems, and high-performance backend infrastructures.
 
 My goal is to combine **Artificial Intelligence and Blockchain technologies** to build secure, scalable, and innovative digital platforms.
